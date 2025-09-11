@@ -19,6 +19,13 @@
       { "network": "LinkedIn", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/mollymaluhia" }
     ]
   },
+  "interests": [
+    { "name": "Soft Robotics" },
+    { "name": "Mechatronics" },
+    { "name": "Digital Art" },
+    { "name": "CAD Modeling" },
+    { "name": "Interactive Media" }
+  ],
   "education": [
     {
       "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
