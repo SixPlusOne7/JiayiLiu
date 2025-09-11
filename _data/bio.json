@@ -1,120 +1,106 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Jiayi Liu",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "label": "Mechanical Engineering Student",
+    "image": "https://github.com/SixPlusOne7.png",
     "email": "liujiayi@hawaii.edu",
     "phone": "808-745-5335",
-    "website": "https://SixPlusOne7.github.io",
-    "summary": "I am studying for a B.S. in Mechanical Engineering in the Department of Mechanical Engineering at the University of Hawaii at Manoa. I expect to graduate in Fall, 2026.",
-    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "url": "https://sixplusone7.github.io/portfolio/",
+    "summary": "B.S. candidate in Mechanical Engineering with a minor in Information and Computer Sciences at the University of Hawaiʻi at Mānoa (expected Dec 2026). Interested in soft robotics, mechatronics, and CAD design; experienced in research, leadership, and hands-on prototyping.",
+    "location": {
+      "postalCode": "96816",
+      "city": "Honolulu",
+      "countryCode": "US",
+      "region": "Hawaiʻi"
+    },
     "profiles": [
-      { "network": "github", "username": "SixPlusOne7", "url": "http://github.com/SixPlusOne7" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
+      { "network": "GitHub", "username": "SixPlusOne7", "url": "https://github.com/SixPlusOne7" },
+      { "network": "LinkedIn", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/mollymaluhia" }
     ]
   },
-  "interests": [
-    { "name": "Soft Robotics" },
-    { "name": "Mechatronics" },
-    { "name": "Digital Art" },
-    { "name": "CAD Modeling" },
-    { "name": "Interactive Media" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Matlab", "Python" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "ROS" ]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Mechanical Engineering (expected Fall, 2026)",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Mechanical Engineering (Minor: Information and Computer Sciences)",
       "studyType": "B.S.",
       "startDate": "2022-08",
       "endDate": "Present",
-      "courses": [
-      ]
+      "score": "GPA: 3.33/4.00 (Expected Graduation: Dec 2026)",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Java", "Python", "C", "C++", "Arduino", "MATLAB"]
+    },
+    {
+      "name": "Tools & Software",
+      "keywords": ["Onshape", "MS Excel", "MS Word", "Google Sheets", "ROS", "Unix/Linux"]
+    },
+    {
+      "name": "Manufacturing & Prototyping",
+      "keywords": ["FDM Printing", "SLA Printing", "Laser Cutting", "X-Y-Z Writing Robot"]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Math Department",
-      "position": "Learning Assistant",
-      "website": "",
+      "name": "UH Mānoa Department of Mathematics",
+      "position": "Learning Assistant (Calculus II)",
       "startDate": "2024-08",
       "endDate": "2024-12",
-      "summary": "Support students in various aspects of a course; including lecture, recitation, laboratories, office hours, and/or Help Rooms",
+      "summary": "Tutored 46 students in Calculus II through lecture, labs, and office hours.",
       "highlights": [
-        "Tutored 46 students, fostering a growth mindset and encouraging persistence through tailored questioning
-strategies and video resources."
-      ]
-    },
-    {
-      "company": "UH Manoa Department of Mechanical Engineering",
-      "position": "Grader for ME372",
-      "website": "https://manoa.hawaii.edu/catalog-2022-23/courses/me-372-component-design-3/",
-      "startDate": "2015-01-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Assist Professor in Grading Assignments"
+        "Boosted student confidence from 47.1% to 87.5% as shown in recitation survey results."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Soft Robotics and Intelligent Machines Laboratory (SAIL) ",
-      "website": "https://sites.google.com/view/uhm-sail",
-      "position": "Research Assistant",
+      "organization": "Soft Robotics & Intelligent Machines Laboratory (SAIL)",
+      "position": "Undergraduate Research Assistant",
       "startDate": "2024-04",
       "endDate": "Present",
-      "summary": "Utilized manufacturing techniques, including FDM and SLA printing, to fabricate numerous actuators, identifying
-an optimal fabrication method that improved actuator durability.
-• Conducted image processing and data analysis using Python lib",
+      "summary": "Conduct research on soft robotics and bio-inspired engineering.",
       "highlights": [
-        "Developed a bio-inspired jellyfish robot, enabling propulsion and grasping in confined underwater environments;
-optimized its design to reduce size by 27% for maneuverability.",
-        "Conducted image processing and data analysis using Python libraries such as OpenCV, Scripy, and Matplotlib to
-graph swimming patterns and calculate movement ranges of fish, contributing to bio-inspired model and robotic
-system development."
+        "Developed a bio-inspired jellyfish robot, enabling propulsion and grasping in confined underwater environments.",
+        "Conducted image processing and data analysis using Python libraries (OpenCV, SciPy, Matplotlib)."
       ]
     },
     {
-      "organization": "American Society of Mechanical Engineers (ASME) @ UH Manoa ",
-      "website": "https://uhmasme.wixsite.com/asmeuhm",
+      "organization": "ASME @ UH Mānoa",
       "position": "President",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2024-08",
+      "endDate": "2024-12",
+      "summary": "Led initiatives to grow membership and organize events.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Revived the chapter with 54 new members (671% growth) and 437% increase in participation.",
+        "Secured $4,000 funding and coordinated six technical and networking events."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "UH Drone Technologies (UHDT) — Air Delivery Subsystem",
+      "startDate": "2023-08",
+      "endDate": "Present",
+      "summary": "Collaborated on UAV airdrop and mount designs.",
+      "highlights": [
+        "Designed and 3D printed an airdrop mechanism for four 8-oz bottles, improving success rate by 16%.",
+        "Created modular drone component mounts and landing gear."
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+    { "title": "Hawai'i Seal of Biliteracy (English & Chinese Advanced)", "date": "2022-12" },
+    { "title": "Manoa Merit Scholarship", "date": "2022-08" },
+    { "title": "College of Engineering Summer Scholarship", "date": "2024-06" },
+    { "title": "Eugene F. Marchal Endowed Scholarship", "date": "2024-08" },
+    { "title": "Undergraduate Research Opportunities Program (UROP) Funding Recipient", "date": "2025-01" },
+    { "title": "UH Mānoa LA Program New LA Award", "date": "2025-01" }
   ],
   "references": [
-    {
-      "name": "Available upon request"
-    }
+    { "name": "Available upon request" }
   ]
 }
