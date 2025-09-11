@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "SixPlusOne7", "url": "http://github.com/SixPlusOne7" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
     ]
   },
   "interests": [
@@ -43,47 +43,51 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Math Department",
+      "position": "Learning Assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-08",
+      "endDate": "2024-12",
+      "summary": "Support students in various aspects of a course; including lecture, recitation, laboratories, office hours, and/or Help Rooms",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Tutored 46 students, fostering a growth mindset and encouraging persistence through tailored questioning
+strategies and video resources."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "UH Manoa Department of Mechanical Engineering",
+      "position": "Grader for ME372",
+      "website": "https://manoa.hawaii.edu/catalog-2022-23/courses/me-372-component-design-3/",
       "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assist Professor in Grading Assignments"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Soft Robotics and Intelligent Machines Laboratory (SAIL) ",
+      "website": "https://sites.google.com/view/uhm-sail",
+      "position": "Research Assistant",
+      "startDate": "2024-04",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Utilized manufacturing techniques, including FDM and SLA printing, to fabricate numerous actuators, identifying
+an optimal fabrication method that improved actuator durability.
+• Conducted image processing and data analysis using Python lib",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Developed a bio-inspired jellyfish robot, enabling propulsion and grasping in confined underwater environments;
+optimized its design to reduce size by 27% for maneuverability.",
+        "Conducted image processing and data analysis using Python libraries such as OpenCV, Scripy, and Matplotlib to
+graph swimming patterns and calculate movement ranges of fish, contributing to bio-inspired model and robotic
+system development."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
+      "organization": "American Society of Mechanical Engineers (ASME) @ UH Manoa ",
+      "website": "https://uhmasme.wixsite.com/asmeuhm",
+      "position": "President",
       "startDate": "",
       "endDate": "",
       "summary": "",
