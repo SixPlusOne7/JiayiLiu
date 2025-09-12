@@ -32,7 +32,7 @@ This follows Raymond’s guidelines because the asker showed effort, described t
 
 The second example is not as effective. The question was: *“How to find out mount partition a directory or file is on Linux server”*. It was vague, had poor grammar, and lacked details such as the environment or what the asker had already tried.  
 
-<img width="400px" class="rounded mx-auto d-block p-3" src="../img/not_smart_question.png">
+<img width="400px" class="rounded mx-auto d-block p-3" src="../img/Screenshot 2025-09-11 at 7.48.20 PM.jpg">
 
 The original question: [How to find out mount partition a directory or file is on Linux server](https://stackoverflow.com/questions/3274354/how-to-find-out-mount-partition-a-directory-or-file-is-on-linux-server)  
 
