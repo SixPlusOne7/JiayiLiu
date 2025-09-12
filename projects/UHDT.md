@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/UHDT_battery_mount_square.jpg
+image: img/mount_square.jpg
 title: "UH Drone Technologies (UHDT) — LiDAR Mount & Landing Gear"
 date: 2024
 published: true
