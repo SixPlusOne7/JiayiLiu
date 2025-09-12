@@ -10,7 +10,7 @@ labels:
   - TypeScript
 ---
 
-![TypeScript Logo](../img/5t7xin.jpg){: width="200px" .rounded .float-start .pe-4 }
+<img width="200px" class="rounded float-start pe-4" src="../img/5t7xin.jpg.png">
 
 *TypeScript adds structure to JavaScript and makes learning smoother for beginners and professionals alike.*
 
@@ -28,7 +28,7 @@ From a software engineering perspective, I think TypeScript is a great language.
 
 The practice WODs were stressful for me. As a mechanical engineering major, I am not used to coding every day, and programming is a skill that requires constant practice. I compared it to my piano training: just like practicing sight reading and scales built speed and coordination, WODs push us to become faster and more fluent programmers.  
 
-![Piano](../img/5t7xin.jpg.png){: width="250px" .rounded .mx-auto .d-block .p-3 }
+<img width="200px" class="rounded float-start pe-4" src="../img/5t7xin.jpg">
 
 It is tough, but it does push my limits and helps me improve. Even though it has affected my grades, I know this style of learning will benefit me in the long run.  
 
