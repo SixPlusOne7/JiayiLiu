@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Jiayi Liu",
-    "label": "Mechanical Engineering Student",
+    "picture": "Mechanical Engineering Student",
     "image": "https://github.com/SixPlusOne7.png",
     "email": "liujiayi@hawaii.edu",
     "phone": "808-745-5335",
