@@ -1,54 +1,23 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Coding and Creativity"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2025-09-11
+published: true
 labels:
-  - Engineering
+  - Software Engineering
+  - Interactive Media
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/IMG_3535.PNG">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*I want to combine programming with digital art to create fun, interactive media.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+I am interested in software engineering because I want to use programming as a way to create fun interactive media. I have always enjoyed digital art, and I like the idea of combining those skills with coding to build something creative, like a game, app, or website. For me, software engineering feels like a way to bring art and technology together.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+In this course, I hope to learn how to use programming languages and frameworks to make projects that are not only functional but also enjoyable to use. I want to practice coding in ways that allow me to design interactive features, add animations, and create smooth user experiences. By improving these skills, I think I will be able to turn my ideas into real projects that people can actually try out.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+I am also looking forward to learning about teamwork and the tools used in professional software development. Things like version control with GitHub, writing clean code, and following good design practices will help me work better with others and make my projects more organized. These are skills that will prepare me not just for this class, but for future opportunities in both software and creative fields.
 
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+In the end, my goal is to create a project that combines my programming knowledge with my art background. I think building something that is both technically strong and artistically interesting would be a great way to show who I am as a student and what I can do.
