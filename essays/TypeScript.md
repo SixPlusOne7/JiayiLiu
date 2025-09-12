@@ -14,7 +14,7 @@ labels:
 
 *TypeScript adds structure to JavaScript and makes learning smoother for beginners and professionals alike.*
 
-When I first encountered TypeScript, I thought it was really cool. Because it is a superset of JavaScript, it makes the transition easier for people who already know Java or other typed languages. Earlier, when I taught myself web development using JavaScript, HTML, and CSS, I didn’t even know TypeScript existed. Looking back, I realize that if I had used TypeScript at the time, I would have understood JavaScript more quickly thanks to the added type safety.  
+When I first encountered TypeScript, I thought it was really cool. Because it is a superset of JavaScript, it makes the transition easier for people who already know Java or other typed languages. Earlier, when I taught myself web development using JavaScript, HTML, and CSS, I didn't even know TypeScript existed. Looking back, I realize that if I had used TypeScript at the time, I would have understood JavaScript more quickly thanks to the added type safety.  
 
 ## In the context of learning
 
