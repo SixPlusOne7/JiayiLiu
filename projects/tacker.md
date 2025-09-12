@@ -13,7 +13,7 @@ summary: "Python tool to analyze swimming mechanics and guide the design of ener
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/Image_processing_data_extracting.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/Image_processing_data_extracting.png" class="img-thumbnail" >
   <img width="200px" src="../img/Larva Fish Midline Extraction.png" class="img-thumbnail" >
   <img width="200px" src="../img/Larva Fish Midline Extraction (1).png" class="img-thumbnail" >
 </div>
