@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Image_processing_data_extracting.png
+image: img/Image_processing_data_extracting_square.jpg
 title: "Kinematic Analysis of Undulatory Swimmers for Bio-Inspired Robotics"
 date: 2024
 published: true
@@ -13,8 +13,8 @@ summary: "Python tool to analyze swimming mechanics and guide the design of ener
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/Image_processing_data_extracting.png" class="img-thumbnail" >
-  <img width="200px" src="../img/Larva_Fish_Midline_Extraction.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Image_processing_data_extracting_square.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/Larva Fish Midline Extraction.png" class="img-thumbnail" >
   <img width="200px" src="../img/Larva_Fish_Midline_Extraction_2.png" class="img-thumbnail" >
 </div>
 
