@@ -24,4 +24,4 @@ She inspired me because that process of combining code with design was really co
 
 ---
 
-*Attribution: I wrote this essay myself. I used ChatGPT to help with grammar corrections, formatting in Markdown, and reorganizing some sentences for clarity.*  
+*Attribution: I wrote this essay myself. I used ChatGPT to help with grammar corrections and reorganizing some sentences for clarity.*  
