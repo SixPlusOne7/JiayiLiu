@@ -38,4 +38,4 @@ For me, programming is like music—it takes daily effort, repetition, and persi
 
 ---
 
-*Attribution: I wrote this essay myself. I used ChatGPT to help with grammar corrections, formatting in Markdown, and reorganizing some sentences for clarity. All ideas and content are my own.*  
+*Attribution: I wrote this essay myself. I used ChatGPT to help with grammar corrections, formatting in Markdown, and reorganizing some sentences for clarity.*  
