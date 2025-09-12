@@ -10,7 +10,7 @@ labels:
   - Communication
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/question_icon.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/question.jpg">
 
 *Good communication in software engineering starts with asking the right questions.*
 
