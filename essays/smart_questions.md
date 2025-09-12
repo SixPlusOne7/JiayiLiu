@@ -46,4 +46,4 @@ But there are downsides. Spending too much time searching can be inefficient, es
 
 ---
 
-*Attribution: I wrote this essay myself. I used ChatGPT to help with grammar, formatting in Markdown, and reorganizing sentences for clarity. All ideas and reflections are my own.*  
+*Attribution: I wrote this essay myself. I used ChatGPT to help with grammar and reorganizing sentences for clarity*  
