@@ -10,7 +10,7 @@ labels:
   - TypeScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/5t7xin.jpg.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/Typescript.png">
 
 *TypeScript adds structure to JavaScript and makes learning smoother for beginners and professionals alike.*
 
