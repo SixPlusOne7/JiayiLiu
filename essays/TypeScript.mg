@@ -1,43 +1,37 @@
 ---
 layout: essay
 type: essay
-title: "Learning TypeScript and Athletic Software Engineering"
+title: "Coding and Creativity"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
 published: true
 labels:
   - Software Engineering
-  - TypeScript
+  - Interactive Media
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript_logo.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/IMG_3535.PNG">
 
-*TypeScript adds structure to JavaScript and makes learning smoother for beginners and professionals alike.*
+*I want to combine programming with digital art to create fun, interactive media.*
 
-When I first encountered TypeScript, I thought it was really cool. Because it is a superset of JavaScript, it makes the transition easier for people who already know Java or other typed languages. Earlier, when I taught myself web development using JavaScript, HTML, and CSS, I didn’t even know TypeScript existed. Looking back, I realize that if I had used TypeScript at the time, I would have understood JavaScript more quickly thanks to the added type safety.  
+I am interested in software engineering because I want to use programming as a way to create interactive media. I have always enjoyed digital art, and I like the idea of combining those skills with coding to build something creative, like a game, app, or website. For me, software engineering feels like a way to bring art and technology together.  
 
-## In the context of learning
+## Learning
 
-From this module, I learned that JavaScript and TypeScript allow you to create objects in multiple ways without necessarily needing a class. You can use object literals, factory functions, or even `Object.create()`. You can also assign functions to variables, which shows the flexibility of the language. These concepts were new to me, and they deepened my understanding of how objects work under the hood.  
+In this course, I hope to learn how to use programming languages and frameworks to make projects that are not only functional but also enjoyable to use. I want to practice coding in ways that allow me to design interactive features, add animations, and create smooth user experiences. By improving these skills, I think I will be able to turn my ideas into real projects that people can actually try out.  
 
-<img width="250px" class="rounded mx-auto d-block p-3" src="../img/typescript_code_example.png">
+## Inspiration
 
-## In the context of software engineering
+On Instagram I saw a girl who was able to craft a small desktop app instantly for her friend—it was just a simple egg timer. The app used HTML, CSS, and JavaScript, but to make it look polished she also used Procreate to design custom icons and animations. In the end it turned out to be a really neat and cute app. Seeing how quickly she moved from idea to finished product was inspiring, and it showed me how powerful it can be to combine technical skills with artistic tools.  
 
-From a software engineering perspective, I think TypeScript is a great language. It catches many errors at compile time, which helps both beginners and experienced developers. For large projects, TypeScript improves reliability and readability, while for new learners, it guides them toward better coding practices. Overall, it feels like a tool that makes JavaScript development less error-prone and more professional.  
+## Personal Goals
 
-## In the context of athletic software engineering
+She inspired me because that process of combining code with design was really cool, and it made me realize that programming doesn’t need to feel distant or abstract. It can be personal and fun. I aspire to create something similar: a project where my own art style becomes part of the user experience. In the future, I hope to take what I learn in this course and experiment with projects that bring together design and engineering in meaningful ways.  
 
-The practice WODs were stressful for me. As a mechanical engineering major, I am not used to coding every day, and programming is a skill that requires constant practice. I compared it to my piano training: just like practicing sight reading and scales built speed and coordination, WODs push us to become faster and more fluent programmers.  
+## Okay!
 
-<img width="250px" class="rounded mx-auto d-block p-3" src="../img/piano.png">
-
-It is tough, but it does push my limits and helps me improve. Even though it has affected my grades, I know this style of learning will benefit me in the long run.  
-
-## Final thoughts
-
-For me, programming is like music—it takes daily effort, repetition, and persistence to build fluency. TypeScript gives me confidence by reducing errors, and athletic software engineering provides a training style that builds discipline. I will keep practicing and do my best to balance the stress with steady progress.  
+So back to the original premise; why am I so interested in software engineering? The answer is that it allows me to connect the things I care about—programming and art—and push myself to learn skills that will let me create something unique. My ultimate goal is to build projects that are both technically strong and artistically interesting, and to keep improving until I can do that confidently.  
 
 ---
 
-*Attribution: I wrote this essay myself. I used ChatGPT to help with grammar corrections, formatting in Markdown, and reorganizing some sentences for clarity. All ideas and content are my own.*  
+*Attribution: I wrote this essay myself. I used ChatGPT to help with grammar corrections, formatting in Markdown, and reorganizing some sentences for clarity.*  
