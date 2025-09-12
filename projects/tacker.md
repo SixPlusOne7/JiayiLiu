@@ -15,7 +15,7 @@ summary: "Python tool to analyze swimming mechanics and guide the design of ener
 <div class="text-center p-4">
   <img width="200px" src="../img/Image_processing_data_extracting_square.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/Larva Fish Midline Extraction.png" class="img-thumbnail" >
-  <img width="200px" src="../img/Larva_Fish_Midline_Extraction_2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/img/Larva Fish Midline Extraction (1).png" class="img-thumbnail" >
 </div>
 
 This project focused on quantifying swimming mechanics of undulatory swimmers (e.g., larval fish and soft robots) to support efficient robot design.  
