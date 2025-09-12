@@ -14,7 +14,7 @@ summary: "Designed modular LiDAR mount and durable landing gear for UAV systems,
 
 <div class="text-center p-4">
   <img width="200px" src="../img/mount.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/UHDT_battery_mount.png" class="img-thumbnail" >
+  <img width="200px" src="../img/UHDT battery mount.png" class="img-thumbnail" >
 </div>
 
 The **UH Drone Technologies VIP Team** project focused on designing and fabricating modular drone hardware:  
