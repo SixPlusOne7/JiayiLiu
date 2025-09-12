@@ -1,0 +1,150 @@
+/* Huaxia Theme: a Chinese traditional color style palette
+   Palette:
+   - Cinnabar (朱砂)          #D23C3C
+   - Indigo (靛蓝)             #1E3A5F
+   - Celadon/Jade (青/翡)      #3A8F7B
+   - Antique Gold (缃色)       #C9A86A
+   - Rice Paper (宣纸)         #FAF7F2
+   - Ink Black (墨)            #1C1C1C
+*/
+
+/* Fonts: body in Noto Sans SC, headings in Noto Serif SC */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&family=Noto+Serif+SC:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;500;700&display=swap");
+
+/* Bootstrap variable overrides */
+:root{
+  /* core hues */
+  --tf-red-cinnabar: #D23C3C;
+  --tf-indigo:       #1E3A5F;
+  --tf-jade:         #3A8F7B;
+  --tf-gold:         #C9A86A;
+  --tf-rice:         #FAF7F2;
+  --tf-ink:          #1C1C1C;
+
+  /* compatibility with your existing custom vars */
+  --tf-blue1: var(--tf-indigo);
+  --tf-blue2: #2B4E79;    /* lighter indigo accent */
+  --tf-blue3: var(--tf-jade);
+  --tf-blue4: #EFE7DA;    /* pale parchment */
+
+  /* global */
+  --tf-page-bg-color: var(--tf-rice);
+  --tf-footer-bg-color: #F3EBDD;
+  --tf-projects-bg-color: #F6EFE4;
+  --tf-pill-bg: var(--tf-red-cinnabar);
+  --tf-icon-fill: var(--tf-indigo);
+  --tf-icon-hover: var(--tf-red-cinnabar);
+
+  /* bootstrap hooks */
+  --bs-font-sans-serif: "Noto Sans SC", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --bs-body-color: var(--tf-ink);
+  --bs-body-bg: var(--tf-page-bg-color);
+  --bs-link-color: var(--tf-red-cinnabar);
+  --bs-link-hover-color: var(--tf-jade);
+}
+
+/* Headings take a serif calligraphic feel */
+h1,h2,h3,h4,h5{
+  color: var(--tf-indigo);
+  font-family: "Noto Serif SC", serif;
+  font-weight: 700;
+  letter-spacing: .2px;
+}
+
+/* Paragraphs and general text */
+body, p, li{
+  font-family: var(--bs-font-sans-serif);
+  color: var(--tf-ink);
+}
+
+/* Links with subtle underline + color shift */
+a{
+  text-decoration: none;
+  border-bottom: 1px dashed transparent;
+  transition: color .2s ease, border-color .2s ease;
+}
+a:hover{
+  color: var(--tf-jade);
+  border-bottom-color: var(--tf-gold);
+}
+
+/* Social icons (keeps your class) */
+.tf-social{
+  display: inline-block;
+  fill: var(--tf-icon-fill);
+  height: 1.5em;
+  width: 1.5em;
+  vertical-align: -.1em;
+  transition: fill .2s ease, transform .2s ease;
+}
+.tf-social:hover{
+  fill: var(--tf-icon-hover);
+  transform: translateY(-1px);
+}
+
+/* Pills / labels */
+.badge, .tf-pill{
+  background: var(--tf-pill-bg);
+  color: #fff;
+  border-radius: 999px;
+}
+
+/* Cards / project tiles */
+.card{
+  background: #fff;
+  border: 1px solid #E6DCCB;       /* parchment edge */
+  box-shadow: 0 2px 12px rgba(30,58,95,.06);
+}
+.card-title{
+  color: var(--tf-indigo);
+}
+.card a{
+  color: var(--tf-red-cinnabar);
+}
+
+/* Navbar */
+.navbar, .navbar-light{
+  background: #fff;
+  border-bottom: 1px solid #E6DCCB;
+}
+.navbar .nav-link{
+  color: var(--tf-indigo);
+}
+.navbar .nav-link:hover{
+  color: var(--tf-red-cinnabar);
+}
+
+/* Footer */
+footer{
+  background: var(--tf-footer-bg-color);
+  border-top: 1px solid #E6DCCB;
+  color: var(--tf-ink);
+}
+
+/* Page sections with gentle parchment tint */
+.section, .projects-grid{
+  background: var(--tf-projects-bg-color);
+}
+
+/* Avatar / rounded images with cinnabar ring */
+.rounded-circle{
+  border: 2px solid var(--tf-red-cinnabar);
+}
+
+/* Utility: brush-style divider */
+.brush-divider{
+  height: 6px;
+  background: linear-gradient(90deg,
+    rgba(210,60,60,.85) 0%,
+    rgba(201,168,106,.85) 40%,
+    rgba(58,143,123,.85) 100%);
+  border-radius: 4px;
+  margin: 1.25rem 0;
+}
+
+/* Small screens: keep your navbar behavior */
+@media (max-width: 500px){
+  .navbar-brand{ display:none; }
+  .navbar-brand-mobile{ display:inline; }
+}
