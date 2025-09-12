@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: portfolio_images_engr/Jiayi_gripping.png
+image: img/Jellyfish_Robot_For_Underwear_Exploration_square.jpg
 title: "Multifunctional Jellyfish Inspired Underwater Robot"
 date: 2024
 published: true
@@ -13,13 +13,9 @@ summary: "Compact underwater soft robotic system for propulsion, grasping, and e
 ---
 
 <div class="text-center p-4">
-  <video width="200px" controls>
-    <source src="../portfolio_images_engr/jellyfish_swimming.mp4" type="video/mp4">
-  </video>
-  <video width="200px" controls>
-    <source src="../portfolio_images_engr/gripping_underwater.mp4" type="video/mp4">
-  </video>
-  <img width="200px" src="../portfolio_images_engr/gipper_CAD.png" class="img-thumbnail">
+  <img width="200px" src="../img/Jiayi_gripping.png" class="img-thumbnail" >
+  <img width="200px" src="../img/gipper_CAD.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Jellyfish_Robot_For_Underwear_Exploration_.png" class="img-thumbnail" >
 </div>
 
 The **Jellyfish Inspired Underwater Robot** was designed in the Soft Robotics and Intelligent Machines Laboratory (SAIL).  
