@@ -9,7 +9,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="120px" class="rounded float-start pe-4" src="../img/0_shprJsFmFRWnF9ly.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/0_shprJsFmFRWnF9ly.jpg">
 
 When I think of coding standards, I understand why they matter. Consistency makes projects easier to read, share, and maintain. If everyone writes code in the same style, the whole team benefits. I don’t really disagree with that.  
 
