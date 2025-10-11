@@ -11,7 +11,7 @@ labels:
   - Web Development
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/ui-frameworks/bootstrap-example.png" alt="Example of a Bootstrap 5 webpage">
+<img width="350px" class="rounded float-start pe-4" src="../img/ui-design-header.png" alt="Example of a Bootstrap 5 webpage">
 
 ## Why I Enjoy Creating with UI Frameworks
 
