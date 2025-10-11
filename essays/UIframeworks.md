@@ -29,6 +29,4 @@ We’re lucky to live in a time where so many tools make web development smoothe
 
 Designing user interfaces feels artistic to me. I enjoy balancing colors, alignment, and spacing until the layout feels harmonious. At the same time, UI skills are incredibly useful for the future. Whether I build a personal portfolio, a robotics project website, or even start a small business, knowing how to design intuitive interfaces helps me communicate ideas effectively to the world.
 
-## AI Assistance
-
 *Attribution: I used ChatGPT to help me refine the grammar and organization of this essay.*
