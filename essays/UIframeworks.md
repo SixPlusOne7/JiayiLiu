@@ -46,4 +46,4 @@ I now see web design not just as a technical task, but as a creative craft. UI f
 
 ## AI Assistance
 
-I used ChatGPT to help me refine the grammar, organization, and formatting of this essay. All the thoughts, reflections, and tone are my own.
+*Attribution: I used ChatGPT to help me refine the grammar and organization of this essay.*
