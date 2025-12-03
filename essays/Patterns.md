@@ -10,7 +10,7 @@ labels:
   - ICS 314
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/design-patterns.png" alt="Illustration of abstract software architecture">
+<img width="350px" class="rounded float-start pe-4" src="../img/public.jpg" alt="Illustration">
 
 ## Understanding Design Patterns Through Everyday Systems
 
