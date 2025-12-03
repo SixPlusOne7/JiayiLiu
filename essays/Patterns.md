@@ -12,6 +12,7 @@ labels:
 
 <img width="350px" class="rounded float-start pe-4" src="../img/public.jpg" alt="Illustration">
 
+
 ## Understanding Design Patterns Through Everyday Systems
 
 As I built out the WarriorHub project, I realized that certain design patterns naturally appeared throughout the code, patterns that show up not only in software but also in everyday environments. Design patterns are not strict rules. Instead, they are familiar structures that make systems easier to maintain, more predictable, and easier to reason about. Seeing them appear in WarriorHub made the project feel less like assembling isolated components and more like coordinating a thoughtful, interconnected system.
