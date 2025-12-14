@@ -56,3 +56,11 @@ a {
   background-color: var(--bs-white);
   border-top: none;
 }
+
+/* Make inline images on project pages larger and responsive. */
+.project-body img {
+  width: min(100%, 640px);
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem;
+}
