@@ -12,7 +12,7 @@ labels:
   - AI Assistance
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/effort-estimation.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/estimate.png">
 
 *Effort estimation and tracking provided insight into how planning, debugging, and AI assistance influence real software development work.*
 
