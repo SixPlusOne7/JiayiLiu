@@ -11,7 +11,7 @@ labels:
   - ICS 314
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ai.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/ai.jpg">
 
 *AI tools can accelerate software development, but only when guided by a programmer who understands the problem and the code.*
 
