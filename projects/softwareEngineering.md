@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/landing_page1.png
+image: img/landing_page1_s.jpeg
 title: "WarriorHub — UH Mānoa Event Scheduler"
 date: 2024
 published: true
