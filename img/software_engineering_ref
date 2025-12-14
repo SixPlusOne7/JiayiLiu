@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Seeing Software Engineering Beyond Web Development | Jiayi Liu | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://avatars.githubusercontent.com/u/163210546?v=4">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jiayi Liu | Professional Portfolio">
+    <meta property="og:url" content="https://SixPlusOne7.github.io/JiayiLiu/essays/software_engineering_ref">
+    <meta property="og:title" content="Seeing Software Engineering Beyond Web Development | Jiayi Liu | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/163210546?v=4">
+    <link rel="shortcut icon" href="/JiayiLiu/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/JiayiLiu/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/JiayiLiu/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Seeing Software Engineering Beyond Web Development | Jiayi Liu | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/JiayiLiu/">Jiayi Liu</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/JiayiLiu/#projects">Projects</a>
+        <a class="nav-link" href="/JiayiLiu/#essays">Essays</a>
+        <a class="nav-link" href="/JiayiLiu/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Seeing Software Engineering Beyond Web Development</h1>
+  <span class="date">13 Dec 2025</span>
+  <hr>
+  <img width="200px" class="rounded float-start pe-4" src="../img/software-engineering.png">
+
+*Software engineering is not tied to a specific platform or language, but to a way of thinking about building systems.*
+
+When I first took ICS 314, I assumed the course was mainly about web application development. While I did learn how to build web applications, I gradually realized that the more important takeaway was understanding software engineering concepts that apply far beyond the web. Over the course of the semester, I started to see that the same principles used to build web applications could also be applied to other domains, such as building a simple video game. This shift in perspective helped me understand software engineering as a transferable skill rather than a stack-specific one.
+
+## Agile Project Management and Issue-Driven Development
+
+One major concept I learned was Agile Project Management, which is a development approach that emphasizes incremental progress, frequent feedback, and adaptability. In this course, we practiced a specific form called Issue Driven Project Management (IDPM), where development work is organized around small, well-defined issues rather than large, rigid plans. Each issue represents a concrete task with clear requirements and completion criteria.
+
+I can easily see myself applying IDPM to a project outside of web development, such as building a simple video game. For example, a game could be broken down into issues like player movement, collision detection, scoring logic, and basic UI elements. Each feature could be developed, tested, and refined independently. This approach would make large projects feel more manageable and would allow for experimentation without losing overall structure.
+
+## Design Patterns and Functional Thinking
+
+Another important concept I learned was design patterns, which are reusable solutions to common software design problems. Design patterns are not pieces of code to copy, but general approaches to structuring software in a maintainable way. In this class, I encountered design ideas such as separating logic from presentation and writing small, reusable functions.
+
+These ideas apply directly to game development as well. For example, separating game logic from rendering logic makes it easier to change visuals without breaking gameplay. Functional programming concepts, such as writing pure functions and avoiding unnecessary side effects, can also improve game code by making behavior easier to reason about and debug. Even in a simple game, clean structure matters as complexity grows.
+
+## Configuration Management and Coding Standards
+
+Configuration management refers to how software versions, dependencies, and environments are controlled and tracked. In ICS 314, tools like Git and GitHub were used to manage source code, track changes, and collaborate effectively. Coding standards, such as consistent formatting and linting rules, ensured that code remained readable and maintainable across contributors.
+
+These practices are just as important in game development as they are in web development. Version control is essential when experimenting with game mechanics, as it allows developers to safely try new ideas and revert changes if needed. Coding standards also help prevent bugs and make it easier to understand code when returning to a project after a break.
+
+## Final thoughts
+
+By the end of this course, I no longer see software engineering as something limited to web applications. Whether building a website, a game, or another type of system, the same principles—clear project management, thoughtful design, and disciplined development practices—still apply. Learning software engineering in ICS 314 gave me confidence that if I wanted to build something new, such as a simple video game, I would not be starting from scratch. Instead, I would be applying the same core concepts in a different context.
+
+---
+
+*Attribution: I wrote this essay myself. I used ChatGPT to help refine wording and improve clarity.*
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
