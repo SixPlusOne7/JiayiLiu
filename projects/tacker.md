@@ -9,22 +9,19 @@ labels:
   - Python
   - OpenCV
   - Data Analysis
-summary: "Python tool to analyze swimming mechanics and guide the design of energy-efficient bio-inspired robots."
+summary: "Developed a Python-based analysis pipeline to quantify swimming kinematics of undulatory swimmers and inform bio-inspired robotic design."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/Image_processing_data_extracting.png" class="img-thumbnail" >
-  <img width="200px" src="../img/Larva Fish Midline Extraction.png" class="img-thumbnail" >
-  <img width="200px" src="../img/Larva Fish Midline Extraction (1).png" class="img-thumbnail" >
+  <img width="200px" src="../img/Image_processing_data_extracting.png" class="img-thumbnail">
+  <img width="200px" src="../img/Larva Fish Midline Extraction.png" class="img-thumbnail">
+  <img width="200px" src="../img/Larva Fish Midline Extraction (1).png" class="img-thumbnail">
 </div>
 
-This project focused on quantifying swimming mechanics of undulatory swimmers (e.g., larval fish and soft robots) to support efficient robot design.  
+This **individual project** focused on quantitatively analyzing the swimming mechanics of undulatory swimmers, such as larval fish and soft robotic systems, with the goal of informing the design of more energy-efficient bio-inspired robots. The project required independently designing and implementing the full analysis workflow, from raw video processing to final data visualization.
 
-- **Body Shape Extraction:** Tracked body midlines by marking points from head to tail.  
-- **Curve Generation:** Converted points into smooth curves using interpolation.  
-- **Movement Analysis:** Measured head angle and swimming speed to evaluate movement efficiency.  
-- **Data Visualization:** Generated plots comparing body shapes and trajectories.  
+My primary contribution was the development of a **Python-based image processing and kinematic analysis pipeline** to extract swimming motion from video data. Using OpenCV, I processed image sequences to identify and track points along the body midline from head to tail. These discrete points were converted into smooth continuous curves through interpolation, enabling consistent representation of body shape across time and serving as the foundation for further analysis.
 
-**Tools:** Python, OpenCV, SciPy, Matplotlib.  
+Building on the extracted midlines, I implemented analysis routines to quantify **movement characteristics** such as head angle variation and swimming speed. These metrics enabled comparisons across different swimming motions and provided insight into how body deformation patterns influence propulsion efficiency. I also developed visualization tools using Matplotlib to compare trajectories, body shapes, and kinematic parameters, making trends and differences easier to interpret.
 
-The analysis provided insights into locomotion strategies that informed the development of **energy-efficient underwater robots**.
+Through this project, I learned how image processing, numerical analysis, and data visualization can be integrated into a cohesive computational workflow. Translating noisy visual data into meaningful quantitative measurements required careful algorithm design, parameter tuning, and validation. This experience strengthened my ability to independently design data-driven analysis tools and reinforced the role of computational methods in guiding the development of **bio-inspired and energy-efficient robotic systems**.
