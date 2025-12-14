@@ -14,9 +14,9 @@ summary: "Team-based development of a soft underwater robotic platform combining
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/Jiayi_gripping.png" class="img-thumbnail">
-  <img width="200px" src="../img/gipper_CAD.png" class="img-thumbnail">
-  <img width="200px" src="../img/Jellyfish_Robot_For_Underwear_Exploration_.png" class="img-thumbnail">
+  <img width="300px" src="../img/Jiayi_gripping.png" class="img-thumbnail">
+  <img width="300px" src="../img/gipper_CAD.png" class="img-thumbnail">
+  <img width="300px" src="../img/Jellyfish_Robot_For_Underwear_Exploration_.png" class="img-thumbnail">
 </div>
 
 The **Jellyfish-Inspired Underwater Robot** was developed by a **five-person team** in the Soft Robotics and Intelligent Machines Laboratory (SAIL). The goal of the project was to design a compact, multifunctional underwater robotic system capable of gentle propulsion, compliant grasping, and environmental interaction while minimizing disturbance to marine life. The system integrates soft pneumatic actuators with modular mechanical and electronic components to support underwater exploration and manipulation tasks.

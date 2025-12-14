@@ -13,9 +13,9 @@ summary: "Developed a Python-based analysis pipeline to quantify swimming kinema
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/Image_processing_data_extracting.png" class="img-thumbnail">
-  <img width="200px" src="../img/Larva Fish Midline Extraction.png" class="img-thumbnail">
-  <img width="200px" src="../img/Larva Fish Midline Extraction (1).png" class="img-thumbnail">
+  <img width="300px" src="../img/Image_processing_data_extracting.png" class="img-thumbnail">
+  <img width="300px" src="../img/Larva Fish Midline Extraction.png" class="img-thumbnail">
+  <img width="300px" src="../img/Larva Fish Midline Extraction (1).png" class="img-thumbnail">
 </div>
 
 This **individual project** focused on quantitatively analyzing the swimming mechanics of undulatory swimmers, such as larval fish and soft robotic systems, with the goal of informing the design of more energy-efficient bio-inspired robots. The project required independently designing and implementing the full analysis workflow, from raw video processing to final data visualization.

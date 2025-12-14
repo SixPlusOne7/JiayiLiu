@@ -14,8 +14,8 @@ summary: "Team-developed event scheduling platform for UH Mānoa, with a focus o
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/landing_page1.png" class="img-thumbnail">
-  <img width="200px" src="../img/calendar_page.png" class="img-thumbnail">
+  <img width="300px" src="../img/landing_page1.png" class="img-thumbnail">
+  <img width="300px" src="../img/calendar_page.png" class="img-thumbnail">
 </div>
 
 **WarriorHub** is a centralized event discovery and scheduling platform designed for students at the University of Hawaiʻi at Mānoa. The purpose of the application is to address the fragmentation of campus event information across multiple independent calendars by providing a single, searchable system for discovering, managing, and tracking events. The platform supports three roles—users, organizers, and administrators—each with different permissions and responsibilities. The project was developed by a five-person team as part of ICS 314 using **Issue Driven Project Management (IDPM)**.

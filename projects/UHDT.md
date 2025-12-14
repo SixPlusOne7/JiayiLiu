@@ -15,8 +15,8 @@ summary: "Contributed to air delivery, hardware, and software subsystems of a UA
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/mount.jpg" class="img-thumbnail">
-  <img width="200px" src="../img/UHDT battery mount.png" class="img-thumbnail">
+  <img width="300px" src="../img/mount.jpg" class="img-thumbnail">
+  <img width="300px" src="../img/UHDT battery mount.png" class="img-thumbnail">
 </div>
 
 The **UH Drone Technologies (UHDT)** project is a multidisciplinary team effort organized into several subsystems, including hardware, air delivery, software, and image processing. The overall goal of the team is to design, build, and test unmanned aerial vehicles (UAVs) for autonomous flight and competition scenarios. Over multiple semesters, I contributed to different subsystems, gaining experience across mechanical design, actuation, and robotic software integration.
