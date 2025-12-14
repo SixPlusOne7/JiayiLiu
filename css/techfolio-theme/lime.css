@@ -56,3 +56,9 @@ a {
   background-color: var(--bs-white);
   border-top: none;
 }
+
+/* Enlarge inline project images (used with .img-thumbnail) while staying responsive. */
+.img-thumbnail {
+  width: min(100%, 300px);
+  height: auto;
+}
