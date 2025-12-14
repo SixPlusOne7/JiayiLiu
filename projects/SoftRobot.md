@@ -26,3 +26,7 @@ My primary contribution to this project was the **design, fabrication, and itera
 In addition to the mechanical work, I also contributed to the **software and control integration** of the system. I worked with **ROS2** to connect a joystick-based human interface to the robot’s control pipeline, enabling manual operation of the gripper and actuators. This involved wiring ROS2 nodes to communicate with an Arduino microcontroller, translating joystick inputs into servo commands for the gripper mechanism. This work provided hands-on experience with integrating high-level robotic middleware with low-level embedded control systems.
 
 Through this project, I learned how soft robotic systems require close coordination between mechanical design, material selection, and control strategies. Iterative prototyping was essential, as small design changes could significantly affect performance underwater. Working across both hardware and software also reinforced the importance of clear interfaces between subsystems, especially in a team setting. Overall, this project strengthened my ability to contribute meaningfully to multidisciplinary robotic systems and deepened my interest in soft robotics for real-world environmental applications.
+
+---
+
+*Attribution: I used ChatGPT to help refine technical wording and improve clarity.*

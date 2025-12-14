@@ -28,3 +28,7 @@ I later transitioned to the **hardware subsystem**, where I focused on **CAD des
 During the most recent semester, I worked in the **software subsystem**, where my focus shifted to simulation and autonomy. I worked on integrating **ROS2 with the ArduPilot flight controller and the Gazebo simulation environment** to simulate drone flight behavior. My goal was to enable testing of obstacle avoidance algorithms in simulation before deployment on physical hardware. This involved wiring communication between ROS2 nodes, the flight controller, and the simulated environment, as well as debugging issues related to synchronization, coordinate frames, and sensor modeling. Through this work, I learned how complex robotic systems rely on tightly coupled software components and how simulation can be a powerful tool for testing autonomy while reducing risk to physical hardware.
 
 Overall, this project taught me how large engineering systems are built through collaboration across specialized subsystems. Moving between air delivery, hardware, and software roles gave me a systems-level perspective on UAV development and highlighted the importance of clear interfaces between mechanical design, control software, and simulation. This experience strengthened my ability to work across disciplines and adapt to different technical challenges within a single complex system.
+
+---
+
+*Attribution: I used ChatGPT to help refine technical wording and improve clarity.*

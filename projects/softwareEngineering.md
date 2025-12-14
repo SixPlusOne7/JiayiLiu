@@ -31,3 +31,7 @@ A significant engineering challenge I addressed was **time consistency across th
 In addition, I worked on **routing and role-based navigation fixes**, such as ensuring admin role updates properly redirect and refresh state after submission. I also implemented the organizer “Add Event” workflow, including role gating so only authorized users can create events, validation to prevent events from being created in the past, and image URL validation with graceful fallbacks when images fail to load. I contributed the full **calendar feature**, implementing a reusable calendar view that supports month, week, and day layouts, dynamic routing by year and month, and clickable events that link directly to their detail pages.
 
 Through this project, I gained hands-on experience with **real-world software engineering concerns**, including data integrity, time handling, API validation, routing correctness, and collaborative development in a shared codebase. WarriorHub reinforced that building reliable software is not just about adding features, but about enforcing consistency, anticipating edge cases, and maintaining clear interfaces between systems. While the application is a web platform, the engineering principles practiced—modularity, validation, version control, and incremental development—are broadly applicable beyond web development.
+
+---
+
+*Attribution: I used ChatGPT to help refine technical wording and improve clarity.*
