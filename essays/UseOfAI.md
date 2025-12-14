@@ -13,8 +13,6 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/ai.jpg">
 
-*AI tools can accelerate software development, but only when guided by a programmer who understands the problem and the code.*
-
 When I first started ICS 314, I used AI very sparingly during WODs. At the time, I wanted to rely on my own reasoning and fully understand the material without external assistance. However, as the course progressed, the pace increased significantly, and I found it difficult to consistently meet the strict time limits of the WODs. Eventually, I began using AI more regularly, both for WODs and for the final project, as a practical way to keep up with the workload.
 
 ## In the context of learning
