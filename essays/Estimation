@@ -1,0 +1,27 @@
+---
+layout: essay
+type: essay
+title: "Reflecting on Effort Estimation, Tracking, and AI Assistance"
+# All dates must be YYYY-MM-DD format!
+date: 2025-12-13
+published: true
+labels:
+  - Software Engineering
+  - Effort Estimation
+  - Project Management
+  - AI Assistance
+---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/effort-estimation.png">
+
+*Effort estimation and tracking provided insight into how planning, debugging, and AI assistance influence real software development work.*
+
+I made my effort estimates based on my prior experience with similar issues, the perceived complexity of each task, and whether the work involved familiar patterns or new integrations. Issues that followed established project structures were estimated lower, while tasks that involved unfamiliar components or interactions with existing code were estimated higher. Although these estimates were often inaccurate, estimating effort in advance was still beneficial because it forced me to think through the required work ahead of time and helped me prioritize tasks more intentionally.
+
+As expected, there were discrepancies between estimated and actual effort. When an issue took less time than estimated, it was often because AI tools were able to follow my prompts precisely and generate usable code efficiently. However, when an issue exceeded its estimate, it was usually due to existing errors or inconsistencies in the codebase that needed to be resolved before progress could continue. In these situations, AI assistance was less effective, particularly for debugging. While AI could suggest possible causes, it was not reliable at identifying the exact root of the problem, requiring me to manually inspect multiple possibilities and trace errors through the system, which increased the actual effort required.
+
+Tracking actual effort throughout the project was useful in revealing where time was truly spent, especially on debugging and investigation rather than pure implementation. Coding effort was tracked using a VSCode-based timer, while non-coding effort such as research, planning, and debugging investigation was recorded manually using start and end times. This process highlighted the limitations of AI assistance in debugging and emphasized the importance of accounting for investigation overhead when estimating effort. If I were to repeat this process, I would break issues into smaller units and explicitly account for debugging and exploration time to produce more realistic estimates.
+
+---
+
+*Attribution: I wrote this essay myself. I used ChatGPT to help refine technical wording and improve clarity.*
